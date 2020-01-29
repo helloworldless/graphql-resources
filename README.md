@@ -1,6 +1,6 @@
 # GraphQL Resources
 
-_A collection of GraphQL resources such as tools, libraries, blogs, and code examples_
+_A collection of resources such as tools, libraries, blogs, and code examples_
 
 ## Official
 - [GraphQL Spec](https://spec.graphql.org/)
