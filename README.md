@@ -39,10 +39,12 @@ _A collection of resources such as tools, libraries, blogs, and code examples_
 - [The Ultimate Guide to handling JWTs on frontend clients (GraphQL)](https://blog.hasura.io/best-practices-of-using-jwt-with-graphql/)
 
 
-## Conference Talks
+## Conference Talks & Other Videos
 - [GraphQL Summit 2018](https://www.youtube.com/playlist?list=PLpi1lPB6opQzSqSuIkDbIL7f73EXcjB_7)
 - [GraphQL Summit 2019](https://www.youtube.com/playlist?list=PLpi1lPB6opQyraZSmwFre_FpL00_3nTzV)
 - [GraphQL Under the Hood](https://www.youtube.com/watch?v=fo6X91t3O2I)
+- [DataLoader – Source code walkthrough](https://youtu.be/OQTnXNCDywA)
+- [GraphQL: The Documentary](https://youtu.be/783ccP__No8)
 
 ## Podcasts
 - [GraphQL Patterns](https://graphqlpatterns.simplecast.com/)
@@ -50,13 +52,10 @@ _A collection of resources such as tools, libraries, blogs, and code examples_
 - [React Podcast 77: Lee Byron — From PHP to React and GraphQL](https://reactpodcast.simplecast.fm/77)
 
 ## Videos
-- [DataLoader – Source code walkthrough](https://youtu.be/OQTnXNCDywA)
+
 
 ## Books
 - [The Little Book of GraphQL Schema Design](https://book.graphqlschemadesign.com/)
 
 ## Code Examples
 - [GraphQL Modular Schema and Resolvers](https://codesandbox.io/s/graphql-modular-schema-and-resolvers-9l2jc)
-
-## Other
-- [GraphQL: The Documentary](https://youtu.be/783ccP__No8)
