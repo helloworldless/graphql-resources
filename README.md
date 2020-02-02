@@ -14,6 +14,7 @@ _A collection of resources such as tools, libraries, blogs, and code examples_
 ## Tools & Libraries
 - [GraphQL Reference Implementation](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 - [Apollo GraphQL](https://www.apollographql.com/) - A community building flexible open source tools for GraphQL
+- [Relay](https://relay.dev/) - A JavaScript framework for building data-driven React applications
 - [Prisma](https://www.prisma.io/) - Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
 - [Hasura](https://hasura.io/) - The Hasura GraphQL Engine gives you fast, instant realtime GraphQL on any Postgres application, existing or new
 - [TypeGraphQL](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators
@@ -22,10 +23,20 @@ _A collection of resources such as tools, libraries, blogs, and code examples_
 - [create-graphql-api](https://github.com/benawad/create-graphql-api) - Set up a Typescript GraphQL API by running one command
 - [DataLoader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching
 
-## Selected Blog Posts
+## Blog Posts & Guides
 - [The GraphQL Dataloader Pattern: Visualized](https://medium.com/@__xuorig__/the-graphql-dataloader-pattern-visualized-3064a00f319f) - Understanding data loading challenges in GraphQL
 - [On GraphQL Schema Stitching & API Gateways
 ](https://medium.com/@__xuorig__/on-graphql-schema-stitching-api-gateways-5dcb579fa90f)
+- [GraphQL Schema Design](https://github.com/artsy/README/blob/master/playbooks/graphql-schema-design.md)
+- [Explaining GraphQL Connections](https://blog.apollographql.com/explaining-graphql-connections-c48b7c3d6976)
+- [Mocking new schema capabilities](https://www.apollographql.com/docs/react/development-testing/client-schema-mocking/)
+- [GraphQL Stitching 101](https://artsy.github.io/blog/2018/12/11/GraphQL-Stitching/)
+- [MongoDB Unveils Managed GraphQL for MongoDB Atlas](https://thenewstack.io/mongodb-unveils-managed-graphql-for-mongodb-atlas/)
+
+## Conference Talks
+- [GraphQL Summit 2018](https://www.youtube.com/playlist?list=PLpi1lPB6opQzSqSuIkDbIL7f73EXcjB_7)
+- [GraphQL Summit 2019](https://www.youtube.com/playlist?list=PLpi1lPB6opQyraZSmwFre_FpL00_3nTzV)
+- [GraphQL Under the Hood](https://www.youtube.com/watch?v=fo6X91t3O2I)
 
 ## Podcasts
 - [GraphQL Patterns](https://graphqlpatterns.simplecast.com/)
