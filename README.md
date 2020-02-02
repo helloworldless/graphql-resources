@@ -24,6 +24,7 @@ _A collection of resources such as tools, libraries, blogs, and code examples_
 - [DataLoader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching
 
 ## Blog Posts & Guides
+- [How To GraphQL](https://www.howtographql.com/) - Guides for frontend and backend in numerous languages
 - [The GraphQL Dataloader Pattern: Visualized](https://medium.com/@__xuorig__/the-graphql-dataloader-pattern-visualized-3064a00f319f) - Understanding data loading challenges in GraphQL
 - [On GraphQL Schema Stitching & API Gateways
 ](https://medium.com/@__xuorig__/on-graphql-schema-stitching-api-gateways-5dcb579fa90f)
@@ -32,6 +33,11 @@ _A collection of resources such as tools, libraries, blogs, and code examples_
 - [Mocking new schema capabilities](https://www.apollographql.com/docs/react/development-testing/client-schema-mocking/)
 - [GraphQL Stitching 101](https://artsy.github.io/blog/2018/12/11/GraphQL-Stitching/)
 - [MongoDB Unveils Managed GraphQL for MongoDB Atlas](https://thenewstack.io/mongodb-unveils-managed-graphql-for-mongodb-atlas/)
+- [3 Methods to Resolve GraphQL Endpoints](https://www.contentful.com/blog/2018/09/25/3-methods-resolve-graphql-endpoints/)
+- [Prisma 2 Preview: Type-safe Database Access & Declarative Migrations](https://www.prisma.io/blog/announcing-prisma-2-zq1s745db8i5)
+- [AWS Amplify GraphQL Operations with TypeScript and Hooks](https://dev.to/mwarger/aws-amplify-graphql-queries-with-typescript-and-hooks-1e2)
+- [The Ultimate Guide to handling JWTs on frontend clients (GraphQL)](https://blog.hasura.io/best-practices-of-using-jwt-with-graphql/)
+
 
 ## Conference Talks
 - [GraphQL Summit 2018](https://www.youtube.com/playlist?list=PLpi1lPB6opQzSqSuIkDbIL7f73EXcjB_7)
