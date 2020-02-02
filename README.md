@@ -51,9 +51,6 @@ _A collection of resources such as tools, libraries, blogs, and code examples_
 - [GraphQL Radio](https://graphqlradio.com/)
 - [React Podcast 77: Lee Byron — From PHP to React and GraphQL](https://reactpodcast.simplecast.fm/77)
 
-## Videos
-
-
 ## Books
 - [The Little Book of GraphQL Schema Design](https://book.graphqlschemadesign.com/)
 
