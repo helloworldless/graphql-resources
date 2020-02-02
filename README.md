@@ -46,6 +46,7 @@ _A collection of resources such as tools, libraries, blogs, and code examples_
 - [Prisma 2 Preview: Type-safe Database Access & Declarative Migrations](https://www.prisma.io/blog/announcing-prisma-2-zq1s745db8i5)
 - [AWS Amplify GraphQL Operations with TypeScript and Hooks](https://dev.to/mwarger/aws-amplify-graphql-queries-with-typescript-and-hooks-1e2)
 - [The Ultimate Guide to handling JWTs on frontend clients (GraphQL)](https://blog.hasura.io/best-practices-of-using-jwt-with-graphql/)
+- [Schema stitching](https://www.apollographql.com/docs/graphql-tools/schema-stitching)
 
 
 ## Conference Talks & Other Videos
