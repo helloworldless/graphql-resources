@@ -11,7 +11,7 @@ _A collection of resources such as tools, libraries, blogs, and code examples_
 - [Apollo Blog](https://blog.apollographql.com/)
 - [Marc-André Giroux (Medium)](https://medium.com/@__xuorig__)
 
-## Tools & Libraries
+## Tools & Libraries (JavaScript)
 - [GraphQL Reference Implementation](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 - [Apollo GraphQL](https://www.apollographql.com/) - A community building flexible open source tools for GraphQL
 - [Relay](https://relay.dev/) - A JavaScript framework for building data-driven React applications
@@ -22,6 +22,15 @@ _A collection of resources such as tools, libraries, blogs, and code examples_
 - [PostGraphile](https://www.graphile.org/postgraphile/) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database
 - [create-graphql-api](https://github.com/benawad/create-graphql-api) - Set up a Typescript GraphQL API by running one command
 - [DataLoader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching
+- [GraphQL Code Generator](https://github.com/dotansimha/graphql-code-generator) - GraphQL code generator with flexible support for custom plugins and templates
+
+## Tools & Libraries (Java)
+- [GraphQL Java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
+- [GraphQL Java Tools](https://github.com/graphql-java-kickstart/graphql-java-tools) - A schema-first tool for graphql-java inspired by graphql-tools for JS
+- [GraphQL SPQR](https://github.com/leangen/graphql-spqr) - Java 8+ API for rapid development of GraphQL services
+
+## Tools & Libraries (Kotlin)
+- [GraphQL Kotlin](https://github.com/ExpediaGroup/graphql-kotlin) - Libraries for running a GraphQL server in Kotlin
 
 ## Blog Posts & Guides
 - [How To GraphQL](https://www.howtographql.com/) - Guides for frontend and backend in numerous languages
