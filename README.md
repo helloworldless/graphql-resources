@@ -16,6 +16,7 @@ _A collection of resources such as tools, libraries, blogs, and code examples_
 - [Apollo GraphQL](https://www.apollographql.com/) - A community building flexible open source tools for GraphQL
 - [Relay](https://relay.dev/) - A JavaScript framework for building data-driven React applications
 - [Prisma](https://www.prisma.io/) - Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
+- [GraphQL Nexus](https://nexus.js.org/) - Declarative, Code-First GraphQL Schemas for JavaScript/TypeScript
 - [Hasura](https://hasura.io/) - The Hasura GraphQL Engine gives you fast, instant realtime GraphQL on any Postgres application, existing or new
 - [TypeGraphQL](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators
 - [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - GraphQL code generator with flexible support for custom plugins and templates
